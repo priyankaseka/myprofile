@@ -1,1 +1,1 @@
-print("my favorite bird is parrot")
+print("my favorite bird is peacock")
