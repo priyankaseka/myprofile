@@ -4,3 +4,4 @@ print('fornt end')
 print('today is boring day')
 print("saturday")
 
+print("friday")
